@@ -42,4 +42,4 @@ Child tracker helps the parents in continuously monitoring the child's location.
 
 ## Technical Architecture
 
-![Alt text](C:\Users\jarvi\Downloads\child_tracker)
+![Alt text](https://drive.google.com/file/d/1olgsVE38NMZxsO0de2-HXrdlGTXvGdl1/view?usp=sharing "Title")
