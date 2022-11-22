@@ -1,4 +1,4 @@
-# **Skill / Job Recommender Application**
+# **IoT Based Safety Gadget for Child Safety Monitoring & Notification**
 
 ### Team Id : [PNT2022TMID14258](#)
 
