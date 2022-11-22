@@ -6,6 +6,8 @@
 
 Child tracker helps the parents in continuously monitoring the child's location. They can simply leave their children in school or parks and create a geofence around the particular location. By continuously checking the child's location notifications will be generated if the child crosses the geofence. Notifications will be sent according to the child's location to their parents or caretakers. The entire location data will be stored in the database.
 
+### Demo Link https://user-images.githubusercontent.com/71205751/203370491-3def209b-fcb7-4c6f-a3c8-6e8e9d6a9244.mp4
+
 # About the Team
 
 - `Haari Prassana P` (_Leader_)
