@@ -2,10 +2,6 @@
 
 ### Team Id : [PNT2022TMID14258](#)
 
-## Links
-
-### Demo Link https://youtu.be/17QrARMxdgA
-
 ## About the project 🚀
 
 This app is a skill recommender solution through which the fresher or the skilled person can log in and find the jobs by using the search option or they can directly interact with the chatbot and get their dream job.
