@@ -42,4 +42,4 @@ Child tracker helps the parents in continuously monitoring the child's location.
 
 ## Technical Architecture
 
-![Alt text](https://drive.google.com/file/d/1olgsVE38NMZxsO0de2-HXrdlGTXvGdl1/view?usp=sharing "Title")
+![child_tracker](https://user-images.githubusercontent.com/71205751/203321608-7222dd4f-90f0-43b3-ad61-bafbeb81f613.png)
