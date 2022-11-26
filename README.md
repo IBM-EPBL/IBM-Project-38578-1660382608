@@ -38,8 +38,7 @@ Child tracker helps the parents in continuously monitoring the child's location.
 
 - **Final Deliverables**
   - [Project Code](Final%20Deliverables/)
-  - [Project Report](https://github.com/IBM-EPBL/IBM-Project-38578-1660382608/files/10069794/IBM-38578-1662628955.pdf)
-
+  - [Project Report](https://github.com/IBM-EPBL/IBM-Project-38578-1660382608/files/10096646/IBM-38578-1662628955.pdf)
 
 ---
 
